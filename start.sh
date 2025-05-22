@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 # Start dummy HTTP server to keep Render Web Service alive
@@ -23,3 +22,4 @@ while true; do
     echo "💤 Still alive: $(date)"
     sleep 300
 done
+
